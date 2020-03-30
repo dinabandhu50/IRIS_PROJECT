@@ -1,8 +1,15 @@
 dependencies:
     - python=3.7
+    - pip
     - numpy
     - scipy
+    - pandas
+    - seaborn
     - scikit-learn
     - jupyter
     - requests
     - click
+    - openpyxl
+    - pip:
+          - watermark
+          - pytest
