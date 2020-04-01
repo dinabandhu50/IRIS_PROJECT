@@ -3,11 +3,11 @@ dependencies:
     - pip
     - numpy
     - scipy
-    - pandas
-    - seaborn
     - scikit-learn
     - jupyter
     - requests
+    - pandas
+    - seaborn
     - click
     - openpyxl
     - pip:
